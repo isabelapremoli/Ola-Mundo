@@ -2,3 +2,5 @@
  Meu primeiro repositório.
 
 Este repositório foi criado durante o curso de Git e GitHub do Curso em Video!
+
+Nova linha adicionada diretamente no site
